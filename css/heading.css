@@ -1,0 +1,14 @@
+/* Headings */
+
+h1 .p1 {
+ color: SlateBlue;
+ font-size: 30px;
+ text-transform: capitalize;
+}
+
+h3 .rex {
+ background-color: #539eb2;
+ text-transform: capitalize;
+ color: #6dba8c;
+}
+
