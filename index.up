@@ -1,8 +1,11 @@
 <!Doctype html>
  <html>
   <head>
-  
+   <title>Aeth1r - Project Aeztwo</title>
   </head>
   <body>
-   <div class="github-card" data-github="aeth1r/twbs" data-width="400" data-height="297" data-theme="medium"></div>
-   <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+   <div class="w3-panel w3-pale-red w3-leftbar w3-border-red">
+  <h1 class="p1">What is Aeth1r</h1>
+  <p>
+ </div>
+   
